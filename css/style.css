@@ -14,10 +14,12 @@
 }
 
 
+.brand-logo {
+	height: 100%;
+}
+
 .logo {
-	height: 64px;
-	width: 216px;
-	overflow: hidden;
+	height: 100%;
 }
 
 .logo img {
